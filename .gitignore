@@ -1,0 +1,5 @@
+SCG*.*
+module_scg_wave*.*
+scg_wave*.*
+out/
+.DS_Store
